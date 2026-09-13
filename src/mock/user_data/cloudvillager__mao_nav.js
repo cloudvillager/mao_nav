@@ -8,16 +8,16 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1789306796172",
-          "name": "生活笔记",
+          "name": "笔记本",
           "url": "https://flagpole.pdrapi.ccwu.cc/",
-          "description": "思源笔记（生活）",
+          "description": "生活",
           "icon": ""
         },
         {
           "id": "site-1789306945199",
-          "name": "待办（生活）",
+          "name": "待办事项",
           "url": "https://todo.norve.top/",
-          "description": "",
+          "description": "生活",
           "icon": "https://www.faviconextractor.com/favicon/todo.norve.top"
         }
       ]
@@ -32,14 +32,14 @@ export const mockData = {
           "id": "site-1789306287577",
           "name": "工作笔记",
           "url": "https://platypus.pdrapi.ccwu.cc/",
-          "description": "思源笔记（工作）",
+          "description": "",
           "icon": "https://www.faviconextractor.com/favicon/platypus.pdrapi.ccwu.cc"
         },
         {
           "id": "site-1789306498260",
-          "name": "待办",
+          "name": "待办事项",
           "url": "https://worktodo.norve.top/",
-          "description": "待办事项（工作）",
+          "description": "工作",
           "icon": "https://www.faviconextractor.com/favicon/worktodo.norve.top"
         },
         {

@@ -73,7 +73,7 @@ export const mockData = {
         },
         {
           "id": "site-1789306896388",
-          "name": "gotify",
+          "name": "消息通知",
           "url": "https://gotify.inkawake.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/gotify.inkawake.com"

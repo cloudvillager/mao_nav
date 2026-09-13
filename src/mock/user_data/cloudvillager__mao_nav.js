@@ -5,7 +5,15 @@ export const mockData = {
       "icon": "📊",
       "name": "常用",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1789306796172",
+          "name": "生活笔记",
+          "url": "https://flagpole.pdrapi.ccwu.cc/",
+          "description": "思源笔记（生活）",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "category-1789306192968",
@@ -48,6 +56,20 @@ export const mockData = {
           "url": "https://img.norve.top/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/img.norve.top"
+        },
+        {
+          "id": "site-1789306822543",
+          "name": "文件快递柜",
+          "url": "https://temp.ibs1.eu.cc/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/temp.ibs1.eu.cc"
+        },
+        {
+          "id": "site-1789306896388",
+          "name": "gotify",
+          "url": "https://gotify.inkawake.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/gotify.inkawake.com"
         }
       ]
     }

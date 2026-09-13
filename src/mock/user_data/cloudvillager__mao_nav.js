@@ -1,10 +1,17 @@
 export const mockData = {
   "categories": [
     {
+      "id": "category-1789306739663",
+      "icon": "📊",
+      "name": "常用",
+      "order": 0,
+      "sites": []
+    },
+    {
       "id": "category-1789306192968",
       "icon": "💻",
       "name": "办公",
-      "order": 0,
+      "order": 1,
       "sites": [
         {
           "id": "site-1789306287577",
@@ -33,7 +40,7 @@ export const mockData = {
       "id": "category-1789306635606",
       "icon": "🛠️",
       "name": "工具",
-      "order": 1,
+      "order": 2,
       "sites": [
         {
           "id": "site-1789306552278",

@@ -77,6 +77,13 @@ export const mockData = {
           "url": "https://gotify.inkawake.com/",
           "description": "",
           "icon": "https://img.norve.top/file/life/1789308167156_image.webp"
+        },
+        {
+          "id": "site-1789309693515",
+          "name": "临时邮箱",
+          "url": "https://mail.cloud365.qzz.io/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mail.cloud365.qzz.io"
         }
       ]
     },

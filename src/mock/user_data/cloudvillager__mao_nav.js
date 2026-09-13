@@ -19,6 +19,13 @@ export const mockData = {
           "url": "https://todo.norve.top/",
           "description": "生活",
           "icon": "https://www.faviconextractor.com/favicon/todo.norve.top"
+        },
+        {
+          "id": "site-1789306574011",
+          "name": "备忘录",
+          "url": "https://memos.norve.top/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/memos.norve.top"
         }
       ]
     },
@@ -41,13 +48,6 @@ export const mockData = {
           "url": "https://worktodo.norve.top/",
           "description": "工作",
           "icon": "https://www.faviconextractor.com/favicon/worktodo.norve.top"
-        },
-        {
-          "id": "site-1789306574011",
-          "name": "备忘录",
-          "url": "https://memos.norve.top/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/memos.norve.top"
         }
       ]
     },

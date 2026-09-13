@@ -12,6 +12,13 @@ export const mockData = {
           "url": "https://platypus.pdrapi.ccwu.cc/",
           "description": "思源笔记（工作）",
           "icon": "https://www.faviconextractor.com/favicon/platypus.pdrapi.ccwu.cc"
+        },
+        {
+          "id": "site-1789306498260",
+          "name": "待办",
+          "url": "https://worktodo.norve.top/",
+          "description": "待办事项（工作）",
+          "icon": "https://www.faviconextractor.com/favicon/worktodo.norve.top"
         }
       ]
     }

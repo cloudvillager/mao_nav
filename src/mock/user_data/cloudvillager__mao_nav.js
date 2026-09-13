@@ -91,6 +91,13 @@ export const mockData = {
           "url": "https://www.eejiema.com/appweb/signIn.html",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.eejiema.com"
+        },
+        {
+          "id": "site-1789309891180",
+          "name": "云电脑",
+          "url": "https://pc.ctyun.cn/#/login",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/pc.ctyun.cn"
         }
       ]
     },

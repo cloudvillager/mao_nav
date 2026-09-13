@@ -12,6 +12,13 @@ export const mockData = {
           "url": "https://flagpole.pdrapi.ccwu.cc/",
           "description": "思源笔记（生活）",
           "icon": ""
+        },
+        {
+          "id": "site-1789306945199",
+          "name": "待办（生活）",
+          "url": "https://todo.norve.top/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/todo.norve.top"
         }
       ]
     },

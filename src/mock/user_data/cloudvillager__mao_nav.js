@@ -84,6 +84,13 @@ export const mockData = {
           "url": "https://mail.cloud365.qzz.io/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/mail.cloud365.qzz.io"
+        },
+        {
+          "id": "site-1789309750635",
+          "name": "eejie",
+          "url": "https://www.eejiema.com/appweb/signIn.html",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.eejiema.com"
         }
       ]
     },

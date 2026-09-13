@@ -26,20 +26,6 @@ export const mockData = {
           "url": "https://memos.norve.top/",
           "description": "",
           "icon": "https://img.norve.top/file/life/1789308084607_image.webp"
-        },
-        {
-          "id": "site-1789307817161",
-          "name": "豆包",
-          "url": "https://www.doubao.com/",
-          "description": "",
-          "icon": "https://img.norve.top/file/life/1789307805368_image.webp"
-        },
-        {
-          "id": "site-1789307867393",
-          "name": "deepseek",
-          "url": "https://www.deepseek.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.deepseek.com"
         }
       ]
     },
@@ -99,7 +85,29 @@ export const mockData = {
       "icon": "🌐",
       "name": "AI",
       "order": 3,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1789307817161",
+          "name": "豆包",
+          "url": "https://www.doubao.com/",
+          "description": "",
+          "icon": "https://img.norve.top/file/life/1789307805368_image.webp"
+        },
+        {
+          "id": "site-1789307867393",
+          "name": "deepseek",
+          "url": "https://www.deepseek.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.deepseek.com"
+        },
+        {
+          "id": "site-1789308383866",
+          "name": "halo",
+          "url": "https://ruwbzaesjt.pdrapi.ccwu.cc/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ruwbzaesjt.pdrapi.ccwu.cc"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱",

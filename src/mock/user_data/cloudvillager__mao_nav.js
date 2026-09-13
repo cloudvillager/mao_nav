@@ -21,13 +21,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/worktodo.norve.top"
         },
         {
-          "id": "site-1789306552278",
-          "name": "图床",
-          "url": "https://img.norve.top/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/img.norve.top"
-        },
-        {
           "id": "site-1789306574011",
           "name": "备忘录",
           "url": "https://memos.norve.top/",
@@ -41,7 +34,15 @@ export const mockData = {
       "icon": "🛠️",
       "name": "工具",
       "order": 1,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1789306552278",
+          "name": "图床",
+          "url": "https://img.norve.top/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/img.norve.top"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱",

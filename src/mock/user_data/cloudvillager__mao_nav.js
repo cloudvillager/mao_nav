@@ -93,6 +93,13 @@ export const mockData = {
           "icon": "https://img.norve.top/file/life/1789308167156_image.webp"
         }
       ]
+    },
+    {
+      "id": "category-1789308344365",
+      "icon": "🌐",
+      "name": "AI",
+      "order": 3,
+      "sites": []
     }
   ],
   "title": "猫猫导航🐱",

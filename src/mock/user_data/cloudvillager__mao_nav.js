@@ -11,21 +11,21 @@ export const mockData = {
           "name": "笔记本",
           "url": "https://flagpole.pdrapi.ccwu.cc/",
           "description": "生活",
-          "icon": ""
+          "icon": "https://img.norve.top/file/life/1789308125460_image.webp"
         },
         {
           "id": "site-1789306945199",
           "name": "待办事项",
           "url": "https://todo.norve.top/",
           "description": "生活",
-          "icon": "https://www.faviconextractor.com/favicon/todo.norve.top"
+          "icon": "https://img.norve.top/file/life/1789308034231_image.webp"
         },
         {
           "id": "site-1789306574011",
           "name": "备忘录",
           "url": "https://memos.norve.top/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/memos.norve.top"
+          "icon": "https://img.norve.top/file/life/1789308084607_image.webp"
         },
         {
           "id": "site-1789307817161",
@@ -90,7 +90,7 @@ export const mockData = {
           "name": "消息通知",
           "url": "https://gotify.inkawake.com/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/gotify.inkawake.com"
+          "icon": "https://img.norve.top/file/life/1789308167156_image.webp"
         }
       ]
     }

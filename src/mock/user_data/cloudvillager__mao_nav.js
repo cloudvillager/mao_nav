@@ -141,6 +141,13 @@ export const mockData = {
           "url": "https://img.pipiwangcom.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/img.pipiwangcom.com"
+        },
+        {
+          "id": "site-1789919788143",
+          "name": " l0veyou",
+          "url": "https://l0veyou.com/chat",
+          "description": "生图满向，无限",
+          "icon": "https://www.faviconextractor.com/favicon/l0veyou.com"
         }
       ]
     }

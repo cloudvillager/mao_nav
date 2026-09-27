@@ -123,7 +123,7 @@ export const mockData = {
         },
         {
           "id": "site-1789308383866",
-          "name": "halo",
+          "name": "halowebui",
           "url": "https://ruwbzaesjt.pdrapi.ccwu.cc/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/ruwbzaesjt.pdrapi.ccwu.cc"
@@ -148,6 +148,13 @@ export const mockData = {
           "url": "https://l0veyou.com/chat",
           "description": "生图满向，无限",
           "icon": "https://www.faviconextractor.com/favicon/l0veyou.com"
+        },
+        {
+          "id": "site-1790527299943",
+          "name": "deeix",
+          "url": "https://deeix.ibs1.eu.cc/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/deeix.ibs1.eu.cc"
         }
       ]
     }

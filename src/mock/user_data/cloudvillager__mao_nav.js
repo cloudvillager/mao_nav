@@ -48,6 +48,13 @@ export const mockData = {
           "url": "https://worktodo.norve.top/",
           "description": "工作",
           "icon": "https://www.faviconextractor.com/favicon/worktodo.norve.top"
+        },
+        {
+          "id": "site-1794935298247",
+          "name": "业务管理",
+          "url": "https://sales.norve.top/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/sales.norve.top"
         }
       ]
     },
@@ -120,13 +127,6 @@ export const mockData = {
           "url": "https://www.deepseek.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.deepseek.com"
-        },
-        {
-          "id": "site-1789308383866",
-          "name": "halowebui",
-          "url": "https://ruwbzaesjt.pdrapi.ccwu.cc/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/ruwbzaesjt.pdrapi.ccwu.cc"
         },
         {
           "id": "site-1790527299943",
